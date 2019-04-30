@@ -1,0 +1,13 @@
+.container {
+    width: 92%;
+    max-width: 720px;
+    margin: 0 auto; }
+
+.header {
+    background: #f36922;
+    line-height: 50px;
+    overflow: hidden;
+    color: #FFF;
+    padding: 5px;
+}
+
